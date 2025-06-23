@@ -2,7 +2,7 @@
 
 **CONIRIS** is a modern real-time chat application that enables seamless one-on-one and group messaging. Designed with a clean, intuitive interface, it offers secure communication, instant updates, and smooth navigation across devices. Whether for casual conversation or professional collaboration, CONIRIS provides a reliable and responsive messaging experience.
 
-Deployed here: [Coniris](https://talk-a-tive-7fgq.onrender.com/))
+Deployed here: [Coniris](https://talk-a-tive-7fgq.onrender.com/)
 ---
 
 ##  Features
